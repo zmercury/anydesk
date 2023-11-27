@@ -20,7 +20,7 @@
 <img src="./images/perma.png" width="400px">
 
 ### 4. Turn on AnyDesk Control Service AD1 and go back 
-<img src="./images/perma%20inner.png/" width="400px">
+<img src="./images/perma inner.png" width="400px">
 
 ### 5. Click on three dot on top left in Anydesk 
 <img src="./images/anydesk%20sett.png" width="400px">
